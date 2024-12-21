@@ -1,6 +1,6 @@
 ### READ IMPORTANT INFO BELOW.
 
-Currently, the GitHub repository is empty **(closed source)** and will not be updated at this time. We are planning to expand our services to a paid model (for the general retail), with **free access limited to the X account**. Read more below.
+Currently, the GitHub repository is empty **(closed source)** and will not be updated at this time. We are planning to expand our services to a paid model (for the general retail), with **free access limited to the X account**. Holders will be able to receive various benefits (TBA). Read more below.
 
 We are making this decision for two main reasons:
 
