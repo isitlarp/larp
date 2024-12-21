@@ -6,6 +6,8 @@ We are making this decision for two main reasons:
 
 1. The service requires a Claude API to function, which obviously cost money. Without access to the Claude API, the service would essentially be non-operational. 
 2. Hosting a free, unrestricted checker would result in significant expenses. Therefore, we have decided to make it **free exclusively for the X account.**
+
+Thank you for understanding. 
   
   
 
